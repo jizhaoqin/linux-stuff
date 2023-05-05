@@ -24,12 +24,12 @@
 # gnome Extensions
 - light dict: dictionary
 - clipboard indicator: 
-- just perfection: appearence setting
+- just perfection: appearance setting
 - open weather: 
 - wallpaper switcher: 
 - rounded window corners: round windows
 - gesture improvements: gesture activities
-- dash to dock: conofigure dock appearance and activities
+- dash to dock: configure dock appearance and activities
 - appindicator and kstatus...: indicate background apps
 - extension list: extension viewer in the panel
 - user themes: implement system themes
