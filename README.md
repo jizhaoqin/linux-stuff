@@ -1,3 +1,5 @@
+[TOC]
+
 # Linux-stuff
 
 - the repository contains the following contents:
