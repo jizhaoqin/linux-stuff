@@ -12,3 +12,4 @@
   - CTRL+ALT+F3 : to tty3
   - CRTL+ALT+Fn : to ttyn
   - su - username: switch to username, if switch to the same user as current, will reload all the config without closing any windows, which is convenient when adjusting system value.
+  - sudo update-alternatives --config x-terminal-emulator: change default terminal emulator
